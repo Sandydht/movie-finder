@@ -14,6 +14,9 @@ module.exports = {
       },
       screens: {
         tablet: '1024px'
+      },
+      opacity: {
+        1: '1'
       }
     }
   },
